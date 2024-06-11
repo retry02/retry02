@@ -1,4 +1,5 @@
  # 💫 Hola! I'm Adrian.
+ 
 There is magic behind self-taught. I have discovered that there is no challenge that I cannot face with determination and curiosity.
 
 
@@ -18,7 +19,6 @@ There is magic behind self-taught. I have discovered that there is no challenge 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=retry02&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=retry02&icon=0&color=0)](https://visitcount.itsvg.in)
+ 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
